@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.vite/
+out/
+release/
+
+dev-server.log
+dev-server.err.log
+npm-debug.log*
+*.log
+*.tsbuildinfo
+
+.env
+.env.*
+
+# Private runtime data - never commit
+state/
+backups/
+Library/

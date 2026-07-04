@@ -1,0 +1,32 @@
+{
+  "id": "library",
+  "floor": "ground",
+  "name": "Library",
+  "purpose": "Structured recall, records, references, provenance.",
+  "atmosphere": "Dense shelves, card drawers, a quiet exactness.",
+  "layout": "Shelves line the walls; a catalog desk faces the doorway with drawers behind it. A reading chair near the windows gives the room a quieter corner for long records and slow work.",
+  "furniture": [
+    "catalog desk",
+    "reading chair",
+    "card drawers",
+    "wall shelves"
+  ],
+  "items": [
+    "index cards",
+    "source ledger",
+    "pencils",
+    "reading lamp"
+  ],
+  "affordances": [
+    "concentrate on work",
+    "look up a record",
+    "file a fact",
+    "read quietly",
+    "ask the Librarian",
+    "find a book"
+  ],
+  "x": 62,
+  "y": 38,
+  "width": 22,
+  "height": 32
+}

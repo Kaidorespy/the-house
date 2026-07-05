@@ -1,3 +1,6 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_iwonbriwonbriwon" src="https://github.com/user-attachments/assets/9e900417-3977-4bb5-a733-063eabff5d87" />
+
+
 # The House Prototype
 
 Standalone desktop prototype for the House.
